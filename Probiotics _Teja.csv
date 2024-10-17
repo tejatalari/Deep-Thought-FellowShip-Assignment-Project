@@ -1,0 +1,11 @@
+Company,Website,Relevant,Category,Manufacturer,Brand,F&B,Probiotics,Fortification,Gut Health,Womens Health,Cognitive Health,Distribution
+Nestle ,http://www.nestle.com,Yes,Bulk (Manufacturer),Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes 
+Dr. Reddy's Laboratories , www.drreddys.com,Yes,Bulk (Manufacturer),Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes 
+Coca‑Cola ,https://www.coca-colacompany.com/,No,F&B,Yes,Yes,Yes,No,Yes,No,No,No,Yes 
+Pfizer ,http://www.pfizer.com,Yes,Bulk (Manufacturer),Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes 
+PepsiCo ,http://www.pepsico.com,Yes,F&B,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes 
+Johnson & Johnson ,http://www.jnj.com,Yes,Bulk (Manufacturer),Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes 
+Danone ,http://www.danone.com,Yes,F&B,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes 
+Bayer ,http://www.bayer.com,Yes,F&B,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes 
+General Mills ,http://www.generalmills.com,Yes,F&B,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes 
+Kellogg’s ,http://www.kelloggs.com,Yes,F&B,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes 
